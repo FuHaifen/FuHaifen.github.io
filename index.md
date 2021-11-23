@@ -1,5 +1,7 @@
 ## 付海芬（2006010019）
 ![image](https://github.com/FuHaifen/FuHaifen.github.io/blob/main/touxiang.png)
+<img width="128" alt="touxiang" src="https://user-images.githubusercontent.com/94836912/142987079-0508720f-514f-4852-a6a3-1c221f5de6d2.png">
+
 
 ### 个人简介
 
