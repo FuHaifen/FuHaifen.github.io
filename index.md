@@ -1,5 +1,5 @@
 ## 付海芬（2006010019）
-![image](https://github.com/FuHaifen/FuHaifen.github.io/blob/main/touxiang.png)
+
 <img width="128" alt="touxiang" src="https://user-images.githubusercontent.com/94836912/142987079-0508720f-514f-4852-a6a3-1c221f5de6d2.png">
 
 
@@ -11,7 +11,7 @@
 - 性别：女
 - 出生年月:2002年4月29日
 - 籍贯：湖南省桂阳县
-- 专业:旅游管理
+- 专业班级:旅游管理2001班
 - 电子邮箱：2108437409@qq.com
 ```
 
